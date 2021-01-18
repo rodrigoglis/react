@@ -1,0 +1,32 @@
+/* MENU */
+.contenedor{
+   
+    display: flex;
+    margin: auto;
+    background: blue;
+
+}
+
+.subcontenedor{
+
+
+    display: block;
+
+}
+
+.buscador{
+    display: flex;
+    position: relative;
+    left: 500px;
+    top: -30px;
+}
+
+.boton{
+
+    display: flex;
+    position: relative;
+    left: 900px;
+    top: -50px;
+
+
+}
